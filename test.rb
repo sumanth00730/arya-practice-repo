@@ -1,1 +1,2 @@
-p 'hi'
+puts "hi"
+print "hello"
